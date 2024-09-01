@@ -23,5 +23,4 @@ This project is licensed under the [license name] license.
 
 **Author:**
 [Mohamed Ahmed]
-LinkedIn: www.linkedin.com/in/mohamed-ahmed-9239a431a
 <a href="www.linkedin.com/in/mohamed-ahmed-9239a431a">Linkedin</a>
