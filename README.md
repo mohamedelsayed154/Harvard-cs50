@@ -2,7 +2,7 @@
 
 **Description:**
 
-This project is a practical application of the concepts learned in CS50. It aims to [state the primary objective] using [key technologies].
+This project is a practical application of the concepts learned in CS50. It aims to [Problem solving training] using [Analysis and division of problems].
 
 **Features:**
 
