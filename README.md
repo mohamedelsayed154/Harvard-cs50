@@ -6,8 +6,8 @@ This project is a practical application of the concepts learned in CS50. It aims
 
 **Features:**
 
-* [key feature 1]
-* [key feature 2]
+* [Critical thinking]
+* [Problem solving]
 
 **Usage:**
 
