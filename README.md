@@ -22,5 +22,5 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 This project is licensed under the [license name] license.
 
 **Author:**
-[Mohamed Ahmed]
+[Mohamed Ahmed] <br>
 <a href="www.linkedin.com/in/mohamed-ahmed-9239a431a">Linkedin</a>
